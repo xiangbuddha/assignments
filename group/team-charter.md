@@ -4,8 +4,6 @@
 ## Directions
 Set aside some time for your group to collaborate on it together ~~in the next two weeks. When you’ve finished, one member of your team should submit the link to the document in the Canvas “Team Charter” assignment. A draft of this assignment should be submitted by 4:00PM September 14.~~ 
 
-A completed example of this assignment by students at the University of Washington: http://www.newbookdigitaltexts.org/dh-fall2018/exhibits/show/vegetarianism-in-wwi/about-us
-
 ## About this assignment
 Collaboration is hard! But it's also a vital tool within workplaces and for working on projects with many moving parts. You'll be creating a final project with many moving parts by the end of this semester, and it'll be necessary to collaborate with several of your classmates to complete it. This can serve as a community for you to explore ideas and methods while you work to complete milestones in digital project management that you can bring with you beyond this course.
 

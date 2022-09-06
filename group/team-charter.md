@@ -1,8 +1,8 @@
 # Team Charter
-## HIST 5152 Group Project Assignment
+### HIST 5152 Group Project Assignment
 
 ## Directions
-Set aside some time for your group to collaborate on it together in the next two weeks. When you’ve finished, one member of your team should submit the link to the document in the Canvas “Team Charter” assignment. A draft of this assignment should be submitted by 4:00PM September 14. 
+Set aside some time for your group to collaborate on it together ~~in the next two weeks. When you’ve finished, one member of your team should submit the link to the document in the Canvas “Team Charter” assignment. A draft of this assignment should be submitted by 4:00PM September 14.~~ 
 
 A completed example of this assignment by students at the University of Washington: http://www.newbookdigitaltexts.org/dh-fall2018/exhibits/show/vegetarianism-in-wwi/about-us
 
@@ -18,10 +18,13 @@ Of course, right now, it's possible that you hardly know your group members. Tha
 ### Basics
 Assign the following roles to project member(s).
 Who will serve as the group's...
-- Project Manager _Moderates team discussion, keeps the group on task, and distributes work._
-- Recorder _Takes notes summarizing team discussions and decisions, and keeps all necessary records._
-- Timekeeper/Planner _Keeps the group aware of time constraints and deadlines and makes sure meetings start on time. Monitors progress on the work plan._
-- Reflector _Assesses performance, interactions, and dynamics between team members, and intervenes with suggestions or strategies for improving the team’s process. Monitors adherence to the Team Charter._
+- **Project Manager** _Moderates team discussion, keeps the group on task, and distributes work._
+
+- **Recorder** _Takes notes summarizing team discussions and decisions, and keeps all necessary records._
+
+- **Timekeeper/Planner** _Keeps the group aware of time constraints and deadlines and makes sure meetings start on time. Monitors progress on the work plan._
+
+- **Reflector** _Assesses performance, interactions, and dynamics between team members, and intervenes with suggestions or strategies for improving the team’s process. Monitors adherence to the Team Charter._
 
 ### Goals
 Individually, are there technologies/tools you want to learn or methodologies/approaches you want to explore?

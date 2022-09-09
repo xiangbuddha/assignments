@@ -17,7 +17,7 @@ Hands-on experience really is the best way to learn how to work with digital too
       - drag and drop your image from your computer file system into this document
   - **Important!!!** Commit your changes by clicking the green button at the bottom of the page you are editing. GitHub does not autosave!
 
-## The recap
+## Guidelines for the recap
 The recap can take the form of a written essay, a video, a screen recorded demo, an infographic, blog post, or just about any other medium you prefer. In your recap, briefly explain (in no more than 1250 words/ 10 minutes):
 
 1. The name, date, topic, organizer, and other basic details of the workshop.

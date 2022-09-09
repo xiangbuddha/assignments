@@ -1,5 +1,5 @@
 # Attend a workshop/event outside of class
-## HIST 5152 Reflections Assignment
+### HIST 5152 Reflections Assignment
 
 ## About this assignment
 Hands-on experience really is the best way to learn how to work with digital tools. We will work on small skills-oriented projects in our Lab during class, but this is a chance for you to engage with a topic or tool that is interesting or important to you personally in a structured, supportive environment.

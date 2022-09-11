@@ -12,8 +12,7 @@ Create a repository from this template. [(GitHub documentation here)](https://do
 - Click the green "Use this template" button
 - If you have more than one GitHub username, choose which username you would like to be the new repository's owner.
 - Rename the repository if you want to, and add an optional description.
-- Choose whether you would like the repo to be publicly visible or private. 
-  - Either choice is ok, but if you choose to make yours private you will need to share it with me as a "collaborator." [(Directions for how to do this here)](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
+- Choose for the repo to be publicly visible.
 - Click "create repository from template."
 
 ## Editing the documents

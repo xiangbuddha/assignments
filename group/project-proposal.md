@@ -1,9 +1,10 @@
 # Project Proposal
 ### HIST 5152 Group Project Assignment
 
-## Directions
-
 ## About this assignment
+
+## Directions
+1. Choose one person from your group to turn in this assignment (You will work collaboratively, but I do not need an individual submission for each member of the group.)
 
 ## The Project Proposal
 ### Part I: The problem + evidence: **To be completed by 4pm September 26, 2022**

@@ -6,3 +6,7 @@
  - Part II of the Project Proposal is due XX
  - Part III of the Project Proposal is due XX
 3. The submitter of the group will make the necessary changes to the assignment document, type "DONE" in the larger box at the bottom of the edited page when it is ready to submit, and commit the changes. **Don't forget to commit your changes!! GitHub will not autosave your work!!**
+
+Need a reminder about how to edit the documents? [Directions are here.](https://github.com/HIST5152/assignments#editing-the-documents)
+
+Need a reminder about how to submit the documents? [Directions are here.](https://github.com/HIST5152/assignments#submitting-the-documents)

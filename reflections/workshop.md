@@ -4,6 +4,8 @@
 ## About this assignment
 Hands-on experience really is the best way to learn how to work with digital tools. We will work on small skills-oriented projects in our Lab during class, but this is a chance for you to engage with a topic or tool that is interesting or important to you personally in a structured, supportive environment.
 
+### Due date
+
 ## Directions
 1. Check out the Events calendar I've set up for this class to find a topic that you might be interested in. If you find one that isn't listed on the calendar, run it by me;  but it should be fine with me if you go to one of those, instead.
 2. Once you've identified your event, make sure to register if necessary and check to see if you might need to prepare anything beforehand (sometimes, you might need to install some software or download a dataset or something along those lines to follow along in the workshop.) 
@@ -21,6 +23,8 @@ The recap can take the form of a written essay, a video, a screen recorded demo,
 3. How was your experience? Did you learn something new? Were there things that frustrated you, and if so, how did you overcome them (or how might they be overcome next time)?
 4. Did you come away with an example/prototype/work-in-progress? Include a link or screenshot if possible.
 5. What advice would you give to someone else who might be interested in learning more about this same topic?
+
+### Rubric
 
 ## Submit 🎯
 Insert any textual elements of your recap here:

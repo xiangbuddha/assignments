@@ -1,8 +1,18 @@
 # Team Charter
 ### HIST 5152 Group Project Assignment
 
-## Directions
-Set aside some time for your group to collaborate on it together. When you've finished, one member of your team should submit this assignment ~~in the Canvas “Team Charter” assignment.~~ A draft of this assignment should be submitted by 4PM September 19, 2022. 
+## Directions for group assignments
+1. Choose one person from your group as the "submitter," who will turn in the group's assignment(s) (You will work collaboratively, but I do not need an individual submission for each member of the group.)
+2. Work collaboratively to follow the directions and answer the questions below for each item by its due date. **Note: If you are not familiar with the "push," "pull" and "merge" functions of GitHub (not part of this course), I recommend using another collaborative text editor that you are familiar with to simplify the process of multiple people editing the document at the same time.**
+- 👉 **The Team Charter is due by 5pm September 19, 2022.**👈
+- Part I of the Project Proposal by 5pm September 26, 2022.
+- Part II of the Project Proposal is due by 5pm October 3, 2022.
+- Part III of the Project Proposal is due by 5pm October 10, 2022.
+3. The submitter of the group will make the necessary changes to the assignment document, type "DONE" in the larger box at the bottom of the edited page when it is ready to submit, and commit the changes. Don't forget to commit your changes!! GitHub will not autosave your work!!
+
+Need a reminder about how to edit the documents? [Directions are here.](https://github.com/HIST5152/assignments#editing-the-documents)
+
+Need a reminder about how to submit the documents? [Directions are here.](https://github.com/HIST5152/assignments#submitting-the-documents)
 
 ## About this assignment
 Collaboration is hard! But it's also a vital tool within workplaces and for working on projects with many moving parts. You'll be creating a final project with many moving parts by the end of this semester, and it'll be necessary to collaborate with several of your classmates to complete it. This can serve as a community for you to explore ideas and methods while you work to complete milestones in digital project management that you can bring with you beyond this course.

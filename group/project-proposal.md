@@ -6,14 +6,14 @@
 ## Directions for group assignments
 1. Choose one person from your group as the "submitter," who will turn in the group's assignment(s) (You will work collaboratively, but I do not need an individual submission for each member of the group.)
 2. Work collaboratively to follow the directions and answer the questions below for each item by its due date. **Note: If you are not familiar with the "push," "pull" and "merge" functions of GitHub (not part of this course), I recommend using another collaborative text editor that you are familiar with to simplify the process of multiple people editing the document at the same time.**
- - The Team Charter is due XX
- - Part I of the Project Proposal is due XX
- - Part II of the Project Proposal is due XX
- - Part III of the Project Proposal is due XX
+ - The Team Charter is due by 5pm September 19, 2022.
+ - Part I of the Project Proposal by 5pm September 26, 2022.
+ - Part II of the Project Proposal is due by 5pm October 3, 2022.
+ - Part III of the Project Proposal is due by 5pm October 10, 2022.
 3. The submitter of the group will make the necessary changes to the assignment document, type "DONE" in the larger box at the bottom of the edited page when it is ready to submit, and commit the changes. **Don't forget to commit your changes!! GitHub will not autosave your work!!**
 
 ## The Project Proposal
-### Part I: The problem + evidence: **To be completed by 4pm September 26, 2022**
+### Part I: The problem + evidence: **To be completed by 5pm September 26, 2022**
 
 _Each group will identify a "problem" - a research question that they will attempt to answer in their project by incorporating their "evidence" - their analyzed source material. They will also take time to consider the group's intended audience, and how that might impact the formulation and presentation of a supported argument._
 
@@ -29,7 +29,7 @@ _Each group will identify a "problem" - a research question that they will attem
 - [User Analysis Worksheet](https://dhlab.yale.edu/assets/docs/DH-User-Analysis.pdf) from Yale's DHLab
 - [Mind Mapping Handout](https://guides.temple.edu/ld.php?content_id=20103373) from Temple Libraries
 
-### Part II: The method(s): **To be completed by 4pm October 3, 2022**
+### Part II: The method(s): **To be completed by 5pm October 3, 2022**
 
 _Each group will consider which tools and methodologies may help them convey a supported argument using their problem and evidence to the intended audience. They will also inventory their assets and needs at this point._
 
@@ -47,7 +47,7 @@ _Each group will consider which tools and methodologies may help them convey a s
  - Finding humanities data section of [UCI Digital Humanities LibGuide](https://guides.lib.uci.edu/c.php?g=334722&p=6470744)
  - [The Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/)
 
-### Part III: The outcome: **To be completed by 4pm October 10, 2022**
+### Part III: The outcome: **To be completed by 5pm October 10, 2022**
 
 _Each group will analyze their problem and evidence with the identified methods in order to convey an argument, and they will define parameters and a loose timeline for the project outcome._
 

@@ -5,6 +5,7 @@
 By now, you've gained a bit of experience in and understanding of the behind-the-scenes processes of digital history work. Equipped with this knowledge, you now have a chance to critique a project created by someone else. The goal of this review is to provide guidance to potential users and producers of similar digital projects. Your assessment also serves as a contribution to the critical discourse surrounding digital scholarship at large, in an effort to raise the level and quality of work in the field.
 
 ### Due date
+Due by November 28, 2022.
 
 ## Directions
 1. Pick one of the “featured projects” from this semester, or another digital history/digital humanities project that corresponds to your interests. 

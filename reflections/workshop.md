@@ -5,6 +5,7 @@
 Hands-on experience really is the best way to learn how to work with digital tools. We will work on small skills-oriented projects in our Lab during class, but this is a chance for you to engage with a topic or tool that is interesting or important to you personally in a structured, supportive environment.
 
 ### Due date
+Due by November 28, 2022.
 
 ## Directions
 1. Check out the Events calendar I've set up for this class to find a topic that you might be interested in. If you find one that isn't listed on the calendar, run it by me;  but it should be fine with me if you go to one of those, instead.

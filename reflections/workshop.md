@@ -20,10 +20,11 @@ Due by November 28, 2022.
 The recap can take the form of a written essay, a video, a screen recorded demo, an infographic, blog post, or just about any other medium you prefer. In your recap, briefly explain (in no more than 1250 words/ 10 minutes):
 
 1. The name, date, topic, organizer, and other basic details of the workshop.
-2. The structure of the workshop: how was it organized (thematically, step-by-step, etc.)? Give details about any processes, lectures, or preparatory work that made up the workshop.
-3. How was your experience? Did you learn something new? Were there things that frustrated you, and if so, how did you overcome them (or how might they be overcome next time)?
-4. Did you come away with an example/prototype/work-in-progress? Include a link or screenshot if possible.
-5. What advice would you give to someone else who might be interested in learning more about this same topic?
+   
+3. The structure of the workshop: how was it organized (thematically, step-by-step, etc.)? Give details about any processes, lectures, or preparatory work that made up the workshop.
+4. How was your experience? Did you learn something new? Were there things that frustrated you, and if so, how did you overcome them (or how might they be overcome next time)?
+5. Did you come away with an example/prototype/work-in-progress? Include a link or screenshot if possible.
+6. What advice would you give to someone else who might be interested in learning more about this same topic?
 
 ### Rubric
 
